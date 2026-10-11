@@ -11,9 +11,7 @@ Playable on Android.
 - Pixel-art skeleton monster on a dark teal background
 
 ## Play
-- Browser: (add your itch.io or hosted link here)
-- Android: download the APK from the Releases page
-
+- Android: download the APK from [itch.io](https://dev-piyushrawat.itch.io/monstercatch) or the Releases page on this repo
 ## Run from source
 1. Install Godot 4.7.2
 2. Clone this repo
